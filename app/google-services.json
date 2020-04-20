@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "80964103112",
+    "firebase_url": "https://hellomap-3bcc8.firebaseio.com",
+    "project_id": "hellomap-3bcc8",
+    "storage_bucket": "hellomap-3bcc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80964103112:android:8dc3fc4501dbf102296efd",
+        "android_client_info": {
+          "package_name": "com.example.hellomap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80964103112-9lriflsaedd4vba8s9j10u7m90focdnf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hellomap",
+            "certificate_hash": "3f11ca44a1c270103aeeeebf7e54e023d8cedf07"
+          }
+        },
+        {
+          "client_id": "80964103112-1q5099inaii2416ugopisjvlpihsp7uc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF66IH_WVUns_raAmKmxTRuUIiTiyMWLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80964103112-1q5099inaii2416ugopisjvlpihsp7uc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
